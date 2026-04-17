@@ -24,15 +24,13 @@ This project covers:
 
 ## 🧠 AI → ML → DL → LLM (Flow)
 
-Artificial Intelligence (AI)
-↓
-Machine Learning (ML)
-↓
-Deep Learning (DL)
-↓
-Large Language Models (LLMs)
-
-
+```mermaid
+graph TD
+    A[Artificial Intelligence] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[Large Language Models]
+```
+AI is the main field → ML is a subset → DL is advanced ML → LLMs are real-world applications like ChatGPT.
 ---
 
 ## 🤖 What is AI?
