@@ -65,10 +65,11 @@ ML allows systems to:
 
 Problem → Data → Training → Testing → Deployment → Monitoring
 
-
+Explanation:
+ML is a continuous loop — models are always monitored and improved.
 ---
 
-## ⚙️ Types of ML
+# ⚙️ Types of ML
 
 | Type | Description | Example |
 |------|------------|--------|
