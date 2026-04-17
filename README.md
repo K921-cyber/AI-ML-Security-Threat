@@ -33,7 +33,7 @@ graph TD
 AI is the main field → ML is a subset → DL is advanced ML → LLMs are real-world applications like ChatGPT.
 ---
 
-## 🤖 What is AI?
+# 🤖 What is AI?
 
 Artificial Intelligence enables machines to:
 - Think and make decisions  
@@ -44,8 +44,18 @@ Artificial Intelligence enables machines to:
 
 ---
 
-## 📊 Machine Learning (ML)
+# 📊 Machine Learning (ML)
 
+```mermaid
+graph LR
+    A[Problem Definition] --> B[Data Collection]
+    B --> C[Data Processing]
+    C --> D[Model Training]
+    D --> E[Evaluation]
+    E --> F[Deployment]
+    F --> G[Monitoring]
+    G --> C
+```
 ML allows systems to:
 - Learn from data  
 - Improve over time  
