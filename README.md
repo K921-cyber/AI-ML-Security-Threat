@@ -11,7 +11,7 @@
 | 1 | [`README_AI_ML_Security_Threats.md`](AI-ML_Security_Threats.md) | AI/ML foundations, neural networks, LLMs, attacker techniques, and AI-powered defence |
 | 2 | [`README_AI_Models_and_Data.md`](AI_Models_and_Data.md) | Training data risks, data provenance, overfitting, quantisation, fine-tuning, and model opacity |
 | 3 | [`README_Prompt_Engineering.md`](Prompt_Engineering.md) | Tokens, parameters, the four prompt pillars, system vs user prompts, and advanced techniques |
-| 4 | [`README_AI_Forensics.md`]() | AI in DFIR, image/video forensics, communication analysis, legal ethics, and case study |
+| 4 | [`README_AI_Forensics.md`](AI_Forensics.md) | AI in DFIR, image/video forensics, communication analysis, legal ethics, and case study |
 
 ---
 
